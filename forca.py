@@ -1,6 +1,6 @@
 
 def jogar():
-    print('bem vindo ao jogo da forca')
+    print('Bem vindo ao jogo da forca!!')
 
 
 if(__name__ == '__main__'):
